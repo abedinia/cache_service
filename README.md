@@ -128,6 +128,7 @@ Ensure you have the following installed:
 ```bash
 rust
 cargo install cargo-tarpaulin
+run redis for testing and change .env file
 ```
 
 
