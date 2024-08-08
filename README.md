@@ -289,7 +289,6 @@ In addition to enhancing monitoring metrics and automating deployment with Helm 
 - **Security Enhancements**: Apply security best practices, including regular vulnerability assessments and secure management of sensitive data.
 - **Disaster Recovery**: Develop a disaster recovery plan to ensure quick recovery and minimal downtime in case of failures.
 - **Configuration Management**: Use configuration management tools to handle environment-specific settings and manage configuration changes efficiently.
-- **Backup and Restore**: Establish regular backup procedures and test restore processes to protect against data loss.
 
 ### GitHub Workflow Improvements
 - **Workflow Integration**: Enhance the GitHub workflow to include automated testing, deployment, and performance monitoring processes.
