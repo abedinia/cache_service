@@ -1,0 +1,52 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `cargo test`
+/target/
+
+# Cargo package manager directory
+/target/
+/debug/
+/release/
+
+# Backup files
+*~
+
+# Logs
+/logs
+*.log
+
+# Rust dependency directory
+/Cargo.lock
+
+# Build directory
+/build/
+
+# Secret configuration files
+.env
+
+# IDEs and editors
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Rust specific
+*.rs.bk
+*.rs.bkp
+
+# Other
+.DS_Store
+Thumbs.db
+/target
